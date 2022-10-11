@@ -1,0 +1,22 @@
+{
+  "name": "javascriptexcercise",
+  "version": "1.0.0",
+  "description": "js tasks ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihamzarana/JavaScriptExcercise.git"
+  },
+  "author": "PIAIC203173",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alihamzarana/JavaScriptExcercise/issues"
+  },
+  "dependencies": {
+    "node": "^18.10.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
